@@ -17,5 +17,4 @@ public class C4RandomAIPlayer extends ConnectPlayer {
     public char getPiece() {
         return this.playerPiece;
     }
-//This feels so different after learning python
 }
