@@ -6,7 +6,7 @@ public class C4HumanPlayer extends ConnectPlayer{
     public C4HumanPlayer(char player1Piece) {
         this.playerPiece = player1Piece;
     }
-
+    
     @Override
     public int columnToPlay() {
         boolean validNumberFound = false;
